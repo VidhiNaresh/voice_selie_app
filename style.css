@@ -1,0 +1,51 @@
+body
+{
+    background: #ffffff;
+}
+h1{
+    font-family:Arial;
+   color: #884365;
+    font-weight: 300;
+}
+
+h4
+{
+    color:rgb(0, 0, 0)
+}
+
+#camera
+{
+    width: 500px;
+    height: 400px;
+    border:3px solid rgb(0, 0, 0);
+}
+h3{
+    color: rgb(243, 17, 141);
+}
+img
+{
+    width: 37%;
+    border-radius: 4px;
+    padding: 10px;
+    box-shadow: 0 6px 8px 0 rgba(7, 7, 6, 0.171);
+}
+label{
+    color:rgb(172, 76, 95) ;
+}
+.column
+{
+    display: inline;
+    padding: 10px;
+}
+img:hover{
+    border-radius: 140px;
+}
+.copy_right_footer {
+    position: fixed;
+    color: #070707;
+    bottom: 0;
+    width: 100%;
+    background-color: #f5f5f5;
+    line-height: 3;
+    text-align: center;
+ }
